@@ -1,6 +1,6 @@
 # project
-RENEW SPA
-# ✨ HEALTH PLUS ✨
+
+# ✨RENEW SPA✨
 
 This is a web based application developed for health related based website.
 Here in this project we used static web apps and azure health bot for devolping this application.
@@ -31,12 +31,15 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 
 ## Screenshots
 ### Home -
-<img width="960" alt="home1" src="https://user-images.githubusercontent.com/113574188/212020830-50b10137-ce88-4e99-a369-1f10c3b37c36.png">
 
-<img width="960" alt="13" src="https://user-images.githubusercontent.com/113574188/214539264-e40db418-1c7a-493e-91da-49af6900edfd.png">
-<img width="960" alt="14" src="https://user-images.githubusercontent.com/113574188/214539310-c82d8ced-4e2f-4c8f-914d-388f0097b514.png">
-
-<img width="960" alt="15" src="https://user-images.githubusercontent.com/113574188/214539381-b944435d-a289-4eb9-8e66-639af5e8afd2.png">
+<img width="960" alt="Screenshot 2023-01-29 191432" src="https://user-images.githubusercontent.com/111863509/215336675-2b682526-1a63-498e-9fe7-75c433cc7147.png">
+<img width="960" alt="Screenshot 2023-01-29 191505" src="https://user-images.githubusercontent.com/111863509/215336681-f8ed34f6-554b-40a4-b7d1-1180446cfc97.png">
+<img width="960" alt="Screenshot 2023-01-29 191541" src="https://user-images.githubusercontent.com/111863509/215336692-f4eb7285-2699-4318-a70c-fe2bb5ee4344.png">
+<img width="960" alt="Screenshot 2023-01-29 191610" src="https://user-images.githubusercontent.com/111863509/215336695-69b11923-f99b-42ea-ad71-048640188784.png">
+<img width="960" alt="Screenshot 2023-01-29 191221" src="https://user-images.githubusercontent.com/111863509/215336696-933d3aee-0a2e-473c-9e30-21fa20eef54c.png">
+<img width="960" alt="Screenshot 2023-01-29 191255" src="https://user-images.githubusercontent.com/111863509/215336698-4d7e5888-58a9-4288-80db-75eed3aed141.png">
+<img width="960" alt="Screenshot 2023-01-29 191327" src="https://user-images.githubusercontent.com/111863509/215336702-95bdf68f-381b-4107-a9bb-0011c87765ae.png">
+<img width="960" alt="Screenshot 2023-01-29 191358" src="https://user-images.githubusercontent.com/111863509/215336703-37b42d29-4ce5-4c69-aec8-2888d81ccc47.png">
 
 
 
